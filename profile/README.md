@@ -32,9 +32,8 @@
 
 <span> <h2>Join the Community on Discord and Other Platforms!⚡</h2>
 <a  href="https://discord.gg/s5vVzsY6"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a  href=""><img alt=" Twitter" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://twitter.com/builderschain"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
-   
  </div>
 
 <h2 align="center">How to contribute -Step by Step Guidelines 🛣️ </h2>
