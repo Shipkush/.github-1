@@ -7,9 +7,6 @@
 <p align="center">
 <b><a href="https://discord.gg/s5vVzsY6" target="_blank">
 <font size="67"> Be a part of our Community on Discord🚀</font>
-1. Give your introduction
-2.Join our community meetups
-3. Be active ❤️
 </a>
 </b>
 </p>
@@ -29,7 +26,7 @@
 	</div>
   
   <h3 align="center"> Happy Coding 👨‍💻 </h3>
-
+<div align="center">
 <span> <h2>Join the Community on Discord and Other Platforms!⚡</h2>
 <a  href="https://discord.gg/s5vVzsY6"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a  href=""><img alt=" Twitter" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
