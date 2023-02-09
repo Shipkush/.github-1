@@ -1,6 +1,6 @@
 <h1 align="center"> BuildersChain - Let's contribute and grow together:triangular_flag_on_post:  </h1>
 
-![image](https://wired.me/wp-content/uploads/2022/10/cartoon-network-LEAD.jpeg)
+![image](https://user-images.githubusercontent.com/91731654/217775506-04f83499-0c16-4a0a-b77a-b9c3a6c2571c.jpeg)
 
 <h2 align="center">A community focused on empowring beginners via open source 🎉</h2>
 <br>
