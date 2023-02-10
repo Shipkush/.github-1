@@ -14,8 +14,14 @@
 </b>
 </p>
 
-<h3 align="center">So, here you go! We as a community love open source, make pull requests, open issues, share ideas, help each other and make improvements!
-</h3>
+<h3 align="center">So, here you go! We as a community love open source, make pull requests, open issues, share ideas, help each other and make improvements!</h3>
+
+<div align = "center">
+<span><h2 align="center">Join us! 💥</h2>
+<p>You can join the BuildersChain community by raising an Issue ✌</p>
+<a href="https://github.com/BuildersChain/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">Join Now!</a></span>
+ </div>
+
 
 <h2 align="center"> Contribution is fun! 🧡</h2>
 
@@ -89,8 +95,3 @@ If you want to contribute, then follows the guidelines mentioned below.
 **12.** Congratulations! Celebrate your success after your pull request is merged!💜😁🚀
 
 
-<h2 align="center">Issue 💥</h2>
-
-You can join the BuildersChain community by raising an [issue here](https://github.com/BuildersChain/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
