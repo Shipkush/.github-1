@@ -45,7 +45,7 @@
 
 <h2 align="center">How to contribute -Step by Step Guidelines 🛣️ </h2>
 
-Do you think any of your favourite feature is missing? if yes, you can add it and make it beautiful experience for all.
+Do you think any of your favourite feature is missing? if yes, you can add the missing feature and make the experience a beautiful one for all..
 
 We are excited to invite you to contribute in this community and make it better.
 
