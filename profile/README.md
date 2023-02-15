@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91731654/217775506-04f83499-0c16-4a0a-b77a-b9c3a6c2571c.jpeg)
 
-<h2 align="center">A community focused on empowring beginners via open source 🎉</h2>
+<h2 align="center">A community focused on empowering beginners via open source 🎉</h2>
 <br>
 <p align="center">
 <b><a href="https://discord.gg/s5vVzsY6" target="_blank">
