@@ -40,7 +40,7 @@
 <span> <h2>Join the Community on Discord and Other Platforms!⚡</h2>
 <a  href="https://discord.gg/s5vVzsY6"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a  href="https://twitter.com/builderschain"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/company/builderschain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a  href="https://chat.whatsapp.com/IrhyHyHdPiu7IEFD89WxkO"><img alt=" Whatsapp" src="https://img.shields.io/badge/Whatsapp-230077B5?style=for-the-badge&logo=whatsapp&logoColor=white"></a></span>
  </div>
 
